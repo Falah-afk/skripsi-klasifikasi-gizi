@@ -1,0 +1,229 @@
+Jenis_Kelamin,Usia,Tinggi_Badan_cm,Berat_Badan_kg,Konsumsi daging setiap hari,Aktivitas fisik (olahraga) dalam satu hari,Bagaimana dengan makanan cepat saji yang anda konsumsi?,Berapa jam durasi tidur malam Anda setiap harinya?,"Berapa lama waktu yang Anda habiskan untuk menatap layar (HP, TV, Laptop) sambil duduk atau rebahan dalam sehari?",Bagaimana pola konsumsi sayur dan buah Anda dalam porsi makan sehari-hari?,"Dalam satu hari, berapa porsi/gelas minuman manis (seperti es teh manis, kopi susu gula aren, boba, minuman kemasan, soda) yang Anda minum?","Seberapa rutin Anda mengonsumsi susu atau produk olahannya (seperti yoghurt manis, susu full cream, keju) dalam sehari?",Label_Gizi,Z_Score
+L,18,170,59,Kadang-Kadang,< 15 menit,Kadang-Kadang,<6 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-288
+P,16,155,55,Sering,15  - 30 menit,Kadang-Kadang,6 - 8 jam,< 1 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,679
+P,16,169,55,Kadang-Kadang,15  - 30 menit,Sering,6 - 8 jam,< 1 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-534
+P,17,158,57,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,555
+P,16,154,49,Kadang-Kadang,< 15 menit,Sering,< 6 jam,1 -3 jam,Kadang - Kadang,Sering,Sering,Gizi Baik,-14
+P,18,167,52,Sering,> 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-969
+P,17,155,47,Kadang-Kadang,15  - 30 menit,Sering,< 6 jam,> 3 jam,Kadang - Kadang,Sering,Sering,Gizi Baik,-529
+P,17,162,58,Sering,> 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,339
+P,17,156,50,Sering,15  - 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-168
+P,16,150,51,Kadang-Kadang,< 15 menit,Kadang-Kadang,< 6 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,615
+L,17,160,58,Sering,> 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,504
+P,17,159,52,Sering,15  - 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,-0.16
+L,17,170,60,Sering,> 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-93
+P,17,155,48,Kadang-Kadang,15  - 30 menit,Sering,< 6 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-372
+P,16,150,54,Kadang-Kadang,< 15 menit,Sering,<6 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,974
+L,18,163,60,Sering,15  - 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,411
+L,17,172,65,Kadang-Kadang,> 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,0.3
+L,17,168,62,Kadang-Kadang,> 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,298
+L,17,170,60,Sering,15  - 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Kadang - Kadang,Kadang - Kadang,Sering,Gizi Baik,-93
+P,18,158,50,Sering,15  - 30 menit,Sering,> 8 jam,> 3 jam,Tidak Pernah,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-427
+P,18,155,44,Sering,< 15 menit,Sering,6 - 8 jam,> 3 jam,Tidak Pernah,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-1.109
+P,18,160,50,Sering,< 15 menit,Kadang-Kadang,< 6 jam,> 3 jam,Tidak Pernah,Sering,Kadang -Kadang,Gizi Baik,-614
+L,18,173,66,Sering,> 30 menit,Tidak Pernah,6 - 8 jam,1 -3 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,251
+P,16,162,54,Sering,15  - 30 menit,Sering,6 - 8 jam,1 -3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-43
+P,17,155,48,Kadang-Kadang,15  - 30 menit,Sering,6 - 8 jam,1 -3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-372
+L,18,178,60,Sering,> 30 menit,Kadang-Kadang,> 8 jam,> 3 jam,Kadang - Kadang,Kadang - Kadang,Sering,Gizi Baik,-848
+P,19,175,50,Sering,15  - 30 menit,Sering,> 8 jam,1 -3 jam,Kadang - Kadang,Sering,Sering,Gizi Kurang,-2.088
+P,16,148,40,Sering,15  - 30 menit,Kadang-Kadang,> 8 jam,> 3 jam,Kadang - Kadang,Kadang - Kadang,Sering,Gizi Baik,-952
+P,18,150,45,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-438
+L,17,170,50,Kadang-Kadang,> 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,-1.511
+P,16,155,48,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-257
+L,18,172,65,Sering,> 30 menit,Sering,6 - 8 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,226
+L,17,158,50,Tidak Pernah,< 15 menit,Sering,< 6 jam,> 3 jam,Tidak Pernah,Sering,Tidak Pernah,Gizi Baik,-354
+P,17,160,52,Kadang-Kadang,> 30 menit,Tidak Pernah,> 8 jam,1 -3 jam,Sering,Tidak Pernah,Sering,Gizi Baik,-251
+P,17,158,52,Sering,> 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,-0.07
+P,18,160,56,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,197
+L,18,172,70,Sering,< 15 menit,Sering,< 6 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,714
+L,17,168,60,Sering,> 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Kadang - Kadang,Sering,Sering,Gizi Baik,73
+L,18,167,55,Kadang-Kadang,15  - 30 menit,Sering,6 - 8 jam,> 3 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,-541
+P,18,153,55,Kadang-Kadang,15  - 30 menit,Sering,6 - 8 jam,> 3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,669
+P,18,160,52,Kadang-Kadang,> 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-324
+P,18,157,45,Kadang-Kadang,> 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-1.135
+L,18,170,50,Kadang-Kadang,> 30 menit,Kadang-Kadang,> 8 jam,1 -3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-1.571
+P,17,150,40,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-1.284
+L,18,175,50,Sering,> 30 menit,Kadang-Kadang,> 8 jam,< 1 jam,Sering,Kadang - Kadang,Sering,Gizi Kurang,-2.065
+L,17,170,50,Kadang-Kadang,< 15 menit,Tidak Pernah,6 - 8 jam,1 -3 jam,Sering,Kadang - Kadang,Tidak Pernah,Gizi Baik,-1.511
+P,16,154,46,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,< 6 jam,< 1 jam,Kadang - Kadang,Sering,Sering,Gizi Baik,-479
+P,17,168,55,Sering,> 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-558
+P,19,151,47,Kadang-Kadang,15  - 30 menit,Sering,< 6 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-272
+L,18,169,56,Sering,> 30 menit,Kadang-Kadang,< 6 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-585
+L,17,165,58,Sering,> 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,88
+L,17,167,57,Kadang-Kadang,> 30 menit,Kadang-Kadang,< 6 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-206
+L,19,174,62,Sering,15  - 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Kadang - Kadang,Sering,Sering,Gizi Baik,-319
+L,17,169,50,Sering,15  - 30 menit,Sering,> 8 jam,1 -3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-1.412
+L,18,177,63,Sering,> 30 menit,Sering,6 - 8 jam,> 3 jam,Kadang - Kadang,Sering,Sering,Gizi Baik,-398
+P,17,158,40,Kadang-Kadang,15  - 30 menit,Tidak Pernah,< 6 jam,1 -3 jam,Tidak Pernah,Kadang - Kadang,Kadang -Kadang,Gizi Kurang,-2.184
+L,16,171,55,Sering,> 30 menit,Kadang-Kadang,> 8 jam,> 3 jam,Sering,Sering,Sering,Gizi Baik,-716
+P,18,169,52,Kadang-Kadang,15  - 30 menit,Sering,> 8 jam,1 -3 jam,Sering,Sering,Kadang -Kadang,Gizi Baik,-1.156
+L,17,165,65,Kadang-Kadang,> 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Kadang - Kadang,Kadang - Kadang,Tidak Pernah,Gizi Baik,0.84
+L,17,167,59,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,< 6 jam,> 3 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Baik,39
+L,17,170,65,Sering,> 30 menit,Tidak Pernah,6 - 8 jam,1 -3 jam,Sering,Kadang - Kadang,Tidak Pernah,Gizi Baik,456
+P,16,155,45,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-749
+P,17,154,46,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-594
+P,18,157,49,Sering,15  - 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,-482
+L,16,170,65,Kadang-Kadang,15  - 30 menit,Sering,6 - 8 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,565
+L,17,175,73,Sering,15  - 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,0.83
+P,16,155,46,Sering,< 15 menit,Sering,6 - 8 jam,1 -3 jam,Kadang - Kadang,Sering,Sering,Gizi Baik,-578
+L,17,173,68,Sering,15  - 30 menit,Kadang-Kadang,> 8 jam,1 -3 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,523
+P,16,155,48,Kadang-Kadang,> 30 menit,Tidak Pernah,6 - 8 jam,> 3 jam,Sering,Tidak Pernah,Sering,Gizi Baik,-257
+L,18,170,62,Sering,> 30 menit,Tidak Pernah,6 - 8 jam,> 3 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,63
+P,16,160,52,Tidak Pernah,15  - 30 menit,Kadang-Kadang,> 8 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-136
+L,17,168,58,Sering,< 15 menit,Sering,< 6 jam,> 3 jam,Tidak Pernah,Sering,Kadang -Kadang,Gizi Baik,-167
+L,18,172,64,Kadang-Kadang,> 30 menit,Kadang-Kadang,> 8 jam,1 -3 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,0.12
+P,18,145,54,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Lebih,1.219
+L,19,160,53,Kadang-Kadang,< 15 menit,Sering,< 6 jam,1 -3 jam,Sering,Kadang - Kadang,Tidak Pernah,Gizi Baik,-241
+P,18,155,47,Kadang-Kadang,15  - 30 menit,Sering,6 - 8 jam,< 1 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-602
+P,18,149,45,Kadang-Kadang,> 30 menit,Kadang-Kadang,6 - 8 jam,< 1 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-0.34
+P,18,145,43,Sering,15  - 30 menit,Kadang-Kadang,> 8 jam,1 -3 jam,Kadang - Kadang,Tidak Pernah,Kadang -Kadang,Gizi Baik,-275
+L,17,160,62,Sering,15  - 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,928
+P,17,156,54,Kadang-Kadang,< 15 menit,Sering,< 6 jam,> 3 jam,Kadang - Kadang,Kadang - Kadang,Sering,Gizi Baik,366
+P,17,156,52,Kadang-Kadang,> 30 menit,Sering,6 - 8 jam,> 3 jam,Sering,Sering,Kadang -Kadang,Gizi Baik,109
+L,17,165,63,Sering,15  - 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,642
+L,16,162,61,Kadang-Kadang,> 30 menit,Sering,< 6 jam,> 3 jam,Kadang - Kadang,Sering,Sering,Gizi Baik,776
+P,18,150,45,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,-438
+P,17,150,46,Sering,15  - 30 menit,Sering,6 - 8 jam,< 1 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,-204
+L,18,160,50,Sering,15  - 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,-614
+P,17,150,45,Sering,< 15 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-364
+P,18,150,50,Sering,< 15 menit,Kadang-Kadang,< 6 jam,> 3 jam,Kadang - Kadang,Kadang - Kadang,Sering,Gizi Baik,303
+L,17,165,50,Kadang-Kadang,> 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Tidak Pernah,Kadang -Kadang,Gizi Baik,-1.02
+L,18,170,60,Sering,15  - 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Sering,Kadang - Kadang,Tidak Pernah,Gizi Baik,-167
+P,17,155,45,Kadang-Kadang,< 15 menit,Sering,6 - 8 jam,> 3 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-864
+P,18,160,50,Kadang-Kadang,> 30 menit,Kadang-Kadang,> 8 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-614
+P,18,150,45,Kadang-Kadang,15  - 30 menit,Sering,< 6 jam,1 -3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-438
+L,16,165,52,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-597
+P,16,147,45,Tidak Pernah,< 15 menit,Sering,6 - 8 jam,1 -3 jam,Kadang - Kadang,Kadang - Kadang,Tidak Pernah,Gizi Baik,42
+P,18,150,48,Sering,15  - 30 menit,Sering,< 6 jam,> 3 jam,Tidak Pernah,Kadang - Kadang,Sering,Gizi Baik,24
+L,18,168,57,Kadang-Kadang,< 15 menit,Sering,< 6 jam,> 3 jam,Tidak Pernah,Sering,Kadang -Kadang,Gizi Baik,-366
+L,17,169,57,Sering,> 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Kadang - Kadang,Tidak Pernah,Gizi Baik,-0.38
+L,16,167,64,Sering,15  - 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,695
+L,18,169,66,Kadang-Kadang,15  - 30 menit,Sering,< 6 jam,1 -3 jam,Sering,Kadang - Kadang,Tidak Pernah,Gizi Baik,562
+P,17,157,49,Kadang-Kadang,< 15 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-409
+P,16,154,51,Kadang-Kadang,< 15 menit,Kadang-Kadang,< 6 jam,> 3 jam,Kadang - Kadang,Sering,Sering,Gizi Baik,265
+L,19,178,67,Sering,15  - 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Sering,Tidak Pernah,Kadang -Kadang,Gizi Baik,-92
+P,17,149,48,Sering,> 30 menit,Sering,6 - 8 jam,> 3 jam,Sering,Sering,Sering,Gizi Baik,0.19
+P,17,148,38,Sering,> 30 menit,Sering,6 - 8 jam,> 3 jam,Sering,Sering,Kadang -Kadang,Gizi Baik,-1.488
+L,17,163,44,Kadang-Kadang,> 30 menit,Kadang-Kadang,6 - 8 jam,1 - 3 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Kurang,-1.889
+L,16,167,42,Kadang-Kadang,< 15 menit,Sering,6 - 8 jam,1 - 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Kurang,-2.679
+L,17,163,47,sering,15  - 30 menit,Sering,6 - 8 jam,> 3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-1.325
+L,16,150,39,Sering,> 30 menit,Kadang-Kadang,6 - 8 jam,1 - 3 jam,Sering,Sering,Sering,Gizi Baik,-1.385
+L,17,165,50,Tidak Pernah,< 15 menit,Kadang-Kadang,< 6 jam,1 - 3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-1.02
+L,17,147,40,Kadang-Kadang,< 15 menit,Sering,> 8 jam,> 3 jam,Sering,Sering,Sering,Gizi Baik,-957
+P,17,148,42,Kadang-Kadang,< 15 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-682
+P,16,152,43,Kadang-Kadang,< 15 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-799
+P,17,147,42,Kadang-Kadang,< 15 menit,Sering,6 - 8 jam,< 1 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-578
+P,16,150,50,Sering,> 30 menit,Sering,> 8 jam,< 1 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,486
+P,17,151,49,Kadang-Kadang,< 15 menit,Sering,> 8 jam,1 - 3 jam,Kadang - Kadang,Sering,Sering,Gizi Baik,149
+P,16,151,50,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,398
+P,16,161,69,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,1 - 3 jam,Sering,Sering,Sering,Gizi Lebih,1.573
+P,16,159,50,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,1 - 3 jam,Sering,Sering,Sering,Gizi Baik,-332
+P,16,160,40,Kadang-Kadang,< 15 menit,Sering,6 - 8 jam,1 - 3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Kurang,-2.321
+P,17,149,37,Kadang-Kadang,< 15 menit,Sering,6 - 8 jam,1 - 3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-1.833
+P,16,145,50,Tidak Pernah,< 15 menit,Kadang-Kadang,6 - 8 jam,< 1 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,918
+L,16,169,55,Sering,> 30 menit,Tidak Pernah,> 8 jam,< 1 jam,Sering,Tidak Pernah,Sering,Gizi Baik,-534
+L,16,170,52,Sering,< 15 menit,Sering,6 - 8 jam,< 1 jam,Sering,Sering,Kadang -Kadang,Gizi Baik,-1.072
+P,16,150,44,Kadang-Kadang,< 15 menit,Sering,6 - 8 jam,1 - 3 jam,Sering,Sering,Sering,Gizi Baik,-417
+P,16,145,36,Kadang-Kadang,< 15 menit,Sering,<6 jam,< 1 jam,Sering,Sering,Sering,Gizi Baik,-1.491
+L,16,175,53,Sering,> 30 menit,Kadang-Kadang,6 - 8 jam,1 - 3 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-1.399
+L,16,169,50,Sering,< 15 menit,Kadang-Kadang,> 8 jam,1 - 3 jam,Sering,Sering,Kadang -Kadang,Gizi Baik,-1.301
+L,17,160,48,Sering,15  - 30 menit,Sering,> 8 jam,> 3 jam,Sering,Sering,Sering,Gizi Baik,-855
+L,16,160,48,Sering,15  - 30 menit,Sering,> 8 jam,> 3 jam,Sering,Sering,Sering,Gizi Baik,-741
+P,16,158,50,Kadang-Kadang,< 15 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-239
+P,16,155,50,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Baik,38
+L,17,170,50,Kadang-Kadang,15  - 30 menit,Sering,6 - 8 jam,< 1 jam,Sering,Kadang - Kadang,Tidak Pernah,Gizi Baik,-1.511
+L,16,154,51,Sering,> 30 menit,Sering,> 8 jam,> 3 jam,Kadang - Kadang,Sering,Sering,Gizi Baik,265
+L,16,165,55,Kadang-Kadang,> 30 menit,Sering,<6 jam,< 1 jam,Sering,Tidak Pernah,Sering,Gizi Baik,-176
+L,16,166,60,Kadang-Kadang,< 15 menit,Sering,6 - 8 jam,1 - 3 jam,Sering,Sering,Kadang -Kadang,Gizi Baik,0.35
+L,16,165,55,Sering,> 30 menit,Sering,> 8 jam,> 3 jam,Sering,Sering,Sering,Gizi Baik,-176
+L,16,165,52,Sering,> 30 menit,Sering,> 8 jam,> 3 jam,Sering,Sering,Sering,Gizi Baik,-597
+L,16,165,56,Sering,< 15 menit,Kadang-Kadang,<6 jam,> 3 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-45
+L,16,165,55,Kadang-Kadang,15  - 30 menit,Sering,6 - 8 jam,1 - 3 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,-176
+P,16,150,40,Tidak Pernah,< 15 menit,Sering,> 8 jam,> 3 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-1.172
+L,16,158,51,Kadang-Kadang,15  - 30 menit,Sering,6 - 8 jam,< 1 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-94
+P,16,145,40,Kadang-Kadang,< 15 menit,Kadang-Kadang,> 8 jam,> 3 jam,Kadang - Kadang,Tidak Pernah,Kadang -Kadang,Gizi Baik,-627
+P,16,145,41,Kadang-Kadang,< 15 menit,Kadang-Kadang,> 8 jam,> 3 jam,Kadang - Kadang,Tidak Pernah,Kadang -Kadang,Gizi Baik,-438
+L,16,142,44,Kadang-Kadang,15  - 30 menit,Sering,6 - 8 jam,< 1 jam,Sering,Sering,Kadang -Kadang,Gizi Baik,365
+L,16,180,57,Kadang-Kadang,15  - 30 menit,sering,> 8 jam,< 1 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-1.26
+L,16,170,55,Tidak Pernah,15  - 30 menit,sering,> 8 jam,1 - 3 jam,Sering,Sering,Sering,Gizi Baik,-625
+L,16,152,52,Kadang-Kadang,< 15 menit,Kadang-Kadang,6 - 8 jam,< 1 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,569
+L,16,172,52,Sering,< 15 menit,sering,6 - 8 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-1.267
+L,16,174,45,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,<6 jam,> 3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Kurang,-2.809
+L,16,154,45,Kadang-Kadang,< 15 menit,Kadang-Kadang,6 - 8 jam,< 1 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-648
+L,16,155,46,Kadang-Kadang,< 15 menit,Kadang-Kadang,6 - 8 jam,< 1 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-578
+P,16,148,41,Sering,15  - 30 menit,Kadang-Kadang,6 - 8 jam,1 - 3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-754
+L,16,160,45,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,1 - 3 jam,Sering,Sering,Sering,Gizi Baik,-1.266
+P,16,156,56,Kadang-Kadang,< 15 menit,Kadang-Kadang,6 - 8 jam,1 - 3 jam,Sering,Sering,Sering,Gizi Baik,712
+P,16,150,38,Kadang-Kadang,15  - 30 menit,sering,6 - 8 jam,1 - 3 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-1.61
+P,16,143,38,Kadang-Kadang,< 15 menit,Tidak Pernah,<6 jam,> 3 jam,Sering,Sering,Tidak Pernah,Gizi Baik,-812
+P,17,157,37,Kadang-Kadang,< 15 menit,sering,<6 jam,> 3 jam,Kadang - Kadang,Sering,Tidak Pernah,Gizi Kurang,-2.797
+P,16,153,40,Sering,15  - 30 menit,Kadang-Kadang,> 8 jam,1 - 3 jam,Sering,Sering,Kadang -Kadang,Gizi Baik,-1.508
+P,16,155,49,Kadang-Kadang,15  - 30 menit,sering,<6 jam,1 - 3 jam,Sering,Sering,Kadang -Kadang,Gizi Baik,-106
+P,16,150,34,Kadang-Kadang,15  - 30 menit,sering,6 - 8 jam,> 3 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Kurang,-2.645
+P,16,156,48,Kadang-Kadang,< 15 menit,sering,> 8 jam,> 3 jam,Sering,Sering,Sering,Gizi Baik,-352
+P,16,151,45,Sering,15  - 30 menit,Kadang-Kadang,> 8 jam,1 - 3 jam,Kadang - Kadang,Sering,Sering,Gizi Baik,-348
+P,16,164,51,Kadang-Kadang,< 15 menit,sering,<6 jam,> 3 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-653
+P,16,149,49,Kadang-Kadang,15  - 30 menit,sering,6 - 8 jam,< 1 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,441
+P,19,155,48,Tidak Pernah,< 15 menit,sering,> 8 jam,< 1 jam,Sering,Sering,Tidak Pernah,Gizi Baik,-497
+P,17,153,45,Kadang-Kadang,15  - 30 menit,sering,6 - 8 jam,> 3 jam,Kadang - Kadang,Sering,Sering,Gizi Baik,-662
+L,17,167,53,Kadang-Kadang,15  - 30 menit,sering,<6 jam,1 - 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-751
+P,16,155,47,Kadang-Kadang,15  - 30 menit,sering,6 - 8 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-414
+P,18,151,40,Sering,15  - 30 menit,Kadang-Kadang,<6 jam,> 3 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,-1.456
+P,17,151,40,Sering,15  - 30 menit,Kadang-Kadang,<6 jam,> 3 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,-1.394
+L,16,165,40,Sering,15  - 30 menit,sering,6 - 8 jam,> 3 jam,Kadang - Kadang,Sering,Sering,Gizi Kurang,-2.926
+L,16,175,50,Kadang-Kadang,< 15 menit,Kadang-Kadang,<6 jam,> 3 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Kurang,-1.913
+L,17,160,40,Sering,15  - 30 menit,sering,<6 jam,1 - 3 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Gizi Kurang,-2.416
+L,17,155,44,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,1 - 3 jam,KAdang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-1.042
+L,16,157,45,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,< 1 jam,Sering,Sering,Kadang -Kadang,Gizi Baik,-954
+L,16,175,50,Kadang-Kadang,< 15 menit,Kadang-Kadang,<6 jam,> 3 jam,Tidak Pernah,Sering,Kadang -Kadang,Gizi Kurang,-1.913
+L,17,176,50,Kadang-Kadang,< 15 menit,Kadang-Kadang,<6 jam,1 - 3 jam,Kadang - Kadang,Kadang - Kadang,Sering,Gizi Kurang,-2.118
+P,16,155,50,Kadang-Kadang,< 15 menit,Kadang-Kadang,6 - 8 jam,< 1 jam,Sering,Sering,Kadang -Kadang,Gizi Baik,38
+P,16,148,39,Tidak Pernah,< 15 menit,Kadang-Kadang,6 - 8 jam,< 1 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-1.159
+P,17,150,50,Tidak Pernah,> 30 menit,Kadang-Kadang,6 - 8 jam,< 1 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,376
+P,16,154,49,Tidak Pernah,> 30 menit,Kadang-Kadang,6 - 8 jam,< 1 jam,Sering,Kadang - Kadang,Kadang -Kadang,Gizi Baik,-14
+P,17,156,46,Kadang-Kadang,< 15 menit,Kadang-Kadang,6 - 8 jam,< 1 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-792
+P,16,153,42,Kadang-Kadang,15  - 30 menit,sering,<6 jam,> 3 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,-1.096
+P,16,153,40,Kadang-Kadang,< 15 menit,sering,6 - 8 jam,> 3 jam,Sering,Sering,Sering,Gizi Baik,-1.508
+L,17,159,47,Kadang-Kadang,< 15 menit,sering,> 8 jam,> 3 jam,Sering,Sering,Kadang -Kadang,Gizi Baik,-923
+P,16,150,45,Kadang-Kadang,< 15 menit,sering,6 - 8 jam,< 1 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,-249
+L,17,160,45,Sering,> 30 menit,sering,6 - 8 jam,1 - 3 jam,Sering,Sering,Kadang -Kadang,Gizi Baik,-1.377
+L,16,165,55,Kadang-Kadang,< 15 menit,Kadang-Kadang,> 8 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-176
+L,16,162,56,Kadang-Kadang,< 15 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Sering,Sering,Kadang -Kadang,Gizi Baik,212
+L,16,160,75,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Sering,Sering,Kadang -Kadang,Obesitas,2.001
+L,16,160,38,Sering,> 30 menit,sering,6 - 8 jam,< 1 jam,Sering,Sering,Sering,Gizi Kurang,-2.823
+L,17,162,51,Kadang-Kadang,15  - 30 menit,sering,6 - 8 jam,1 - 3 jam,Kadang - Kadang,Sering,Sering,Gizi Baik,-579
+L,17,172,50,Kadang-Kadang,15  - 30 menit,Tidak Pernah,6 - 8 jam,< 1 jam,Sering,Kadang - Kadang,Sering,Gizi Kurang,-1.711
+L,16,168,52,Sering,15  - 30 menit,Tidak Pernah,> 8 jam,1 - 3 jam,Kadang - Kadang,Kadang - Kadang,Sering,Gizi Baik,-0.88
+L,16,169,52,Kadang-Kadang,< 15 menit,sering,6 - 8 jam,1 - 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Baik,-976
+L,17,170,58,Kadang-Kadang,< 15 menit,sering,> 8 jam,> 3 jam,Tidak Pernah,Sering,Tidak Pernah,Gizi Baik,-339
+P,17,166,55,Kadang-Kadang,< 15 menit,sering,<6 jam,> 3 jam,Tidak Pernah,Sering,Sering,Gizi Baik,-379
+P,17,166,58,Tidak Pernah,< 15 menit,sering,6 - 8 jam,< 1 jam,Tidak Pernah,Sering,Sering,Gizi Baik,0
+L,17,155,39,Sering,> 30 menit,sering,<6 jam,< 1 jam,Tidak Pernah,Tidak Pernah,Tidak Pernah,Gizi Kurang,-2.067
+P,18,156,70,Kadang-Kadang,< 15 menit,sering,6 - 8 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Obesitas,2.105
+P,18,145,55,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Lebih,1.327
+L,18,146,56,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Sering,Kadang -Kadang,Gizi Lebih,1.352
+P,17,159,79,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,> 8 jam,> 3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Obesitas,2.322
+L,16,160,73,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Sering,Sering,Kadang -Kadang,Obesitas,2.117
+L,18,147,57,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Sering,Kadang -Kadang,Gizi Lebih,1.376
+P,17,156,73,Kadang-Kadang,15  - 30 menit,Sering,> 8 jam,> 3 jam,Sering,Kadang - Kadang,Tidak Pernah,Obesitas,2.123
+L,16,150,57,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Sering,Kadang -Kadang,Gizi Lebih,1.295
+P,16,164,80,Kadang-Kadang,> 30 menit,Kadang-Kadang,> 8 jam,> 3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Obesitas,2.15
+P,17,155,57,Sering,< 15 menit,Kadang-Kadang,> 8 jam,1 -3 jam,Tidak Pernah,Sering,Kadang -Kadang,Gizi Lebih,0.8
+L,18,147,58,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Sering,Sering,Tidak Pernah,Gizi Lebih,1.476
+P,17,160,79,Kadang-Kadang,< 15 menit,Sering,> 8 jam,> 3 jam,Sering,Sering,Kadang -Kadang,Obesitas,2.26
+P,16,159,73,Kadang-Kadang,15  - 30 menit,Sering,> 8 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Obesitas,2.0
+L,18,152,60,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Lebih,1.284
+L,17,170,58,Kadang-Kadang,< 15 menit,sering,> 8 jam,> 3 jam,Tidak Pernah,Sering,Tidak Pernah,Gizi Baik,-339
+L,16,153,59,Sering,< 15 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Kadang - Kadang,Sering,Tidak Pernah,Gizi Lebih,1.265
+L,16,160,73,Kadang-Kadang,15  - 30 menit,Sering,6 - 8 jam,> 3 jam,Sering,Sering,Kadang -Kadang,Obesitas,2.001
+P,16,165,80,Kadang-Kadang,15  - 30 menit,Sering,> 8 jam,> 3 jam,Kadang - Kadang,Kadang - Kadang,Kadang -Kadang,Obesitas,2.322
+L,17,147,54,Kadang-Kadang,< 15 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Sering,Kadang -Kadang,Gizi Lebih,1.119
+P,16,157,72,Kadang-Kadang,< 15 menit,Kadang-Kadang,6 - 8 jam,> 3 jam,Sering,Kadang - Kadang,Kadang -Kadang,Obesitas,2.058
+L,17,156,60,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,> 8 jam,1 -3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Gizi Lebih,1.037
+L,18,175,50,Sering,> 30 menit,Kadang-Kadang,> 8 jam,< 1 jam,Sering,Kadang - Kadang,Sering,Gizi Kurang,-2.065
+L,17,176,50,Kadang-Kadang,< 15 menit,Kadang-Kadang,<6 jam,1 - 3 jam,Kadang - Kadang,Kadang - Kadang,Sering,Gizi Kurang,-2.118
+P,16,156,56,Kadang-Kadang,> 30 menit,Kadang-Kadang,6 - 8 jam,1 - 3 jam,Sering,Kadang - Kadang,Sering,Gizi Baik,712
+P,18,157,69,Kadang-Kadang,< 15 menit,Sering,> 8 jam,> 3 jam,Sering,Sering,Kadang -Kadang,Obesitas,2.107
+L,17,161,68,Kadang-Kadang,15  - 30 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Sering,Kadang -Kadang,Gizi Lebih,1.403
+L,19,147,58,Kadang-Kadang,< 15 menit,Kadang-Kadang,6 - 8 jam,1 -3 jam,Sering,Sering,Kadang -Kadang,Gizi Lebih,1.435
+L,17,165,85,Kadang-Kadang,< 15 menit,Sering,> 8 jam,> 3 jam,Kadang - Kadang,Sering,Kadang -Kadang,Obesitas,2.45

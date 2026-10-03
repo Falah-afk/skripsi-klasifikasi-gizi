@@ -1,0 +1,59 @@
+id,calories,proteins,fat,carbohydrate,name,kategori,image
+1,287.0,31.0,15.7,1.7,Ayam goreng,Lauk,https://cdn1-production-images-kly.akamaized.net/EwEm3hoNsTm-YZSonSqX2IlcAaY=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2938630/original/066858200_1571039590-shutterstock_153914045.jpg
+2,300.0,24.0,20.7,4.5,Bebek goreng,Lauk,https://asset.kompas.com/crops/y8jlET9Zwl-5iykdc5t58sS-_KY=/0x52:1000x719/750x500/data/photo/2020/07/14/5f0d253a6edd5.jpg
+3,473.0,45.2,26.3,13.9,Usus Ayam,Lauk,https://img-global.cpcdn.com/recipes/fa7c9443ce9efcb5/1200x630cq70/photo.jpg
+4,178.0,2.1,0.1,40.6,Nasi Putih,Karbo,https://e0.pxfuel.com/wallpapers/769/103/desktop-wallpaper-white-rice-rice-bowl.jpg
+5,156.0,2.3,0.2,15.6,Bubur,Menu Lengkap,https://asset.kompas.com/crops/8IPl4RcIfLh3fkwXhKHPuPHqoz8=/81x22:892x563/750x500/data/photo/2020/05/13/5ebbdec618a37.jpg
+6,191.0,32.0,6.0,0.0,Daging Sapi,Lauk,https://asset.kompas.com/crops/hysnw0J-U1aA8CzBNW5j_uEC3s8=/0x476:1080x1196/750x500/data/photo/2022/03/22/6239bc36b14f4.jpg
+7,348.0,18.7,29.5,0.0,Ikan Asin japuh goreng,Lauk,https://img-global.cpcdn.com/recipes/756a62f3201bd80c/1200x630cq70/photo.jpg
+8,430.0,33.4,32.4,0.0,Teri goreng,Lauk,https://img-global.cpcdn.com/recipes/15714e008b15f3e0/680x482cq70/teri-segar-goreng-tanpa-minyak-foto-resep-utama.jpg
+9,188.0,19.3,12.2,0.0,Ikan Mas goreng,Lauk,https://cdn1-production-images-kly.akamaized.net/PoXdFBAzit7rJj6MDEQSxQ35dT8=/0x462:5162x3371/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2930376/original/062217400_1570175183-shutterstock_445394449.jpg
+10,148.9,10.4,10.4,20.1,Jagung Sayur (tumis),Sayur,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Ucm7dE-tdUCvcBFecFX45cNnUfLEClckAX_twDLgKw&s=10
+11,109.6,2.6,2.6,18.6,Ketupat Tahu,Menu Lengkap,https://asset-a.grid.id/crop/0x0:0x0/x/photo/2021/06/09/resep-kupat-tahu-menu-sarapan-n-20210609032448.jpg
+12,102.0,6.2,3.9,10.5,Mie ayam,Menu Lengkap,https://awsimages.detik.net.id/community/media/visual/2022/10/12/resep-mie-ayam-kecap_43.jpeg?w=1200
+13,114.0,5.3,3.0,16.4,Mie bakso,Menu Lengkap,https://upload.wikimedia.org/wikipedia/commons/a/a9/Indonesian_bakso%2C_with_noodle_and_bean_sprouts%2C_April_2018_%2803%29.jpg
+14,275.0,11.6,11.6,30.2,Sayur Asem,Sayur,https://img-global.cpcdn.com/recipes/5355bb65be878c54/680x482cq70/lodeh-pepaya-muda-foto-resep-utama.jpg
+15,448.0,14.5,42.3,2.3,Sosis,Lauk,https://images.tokopedia.net/img/cache/700/product-1/2020/7/3/1982472/1982472_d7e37ee9-0836-4eb7-9d26-fe0b1f602bd3_300_300
+16,127.5,2.6,9.4,8.3,Soto Ayam,Menu Lengkap,https://www.dapurkobe.co.id/wp-content/uploads/soto-ayam.jpg
+17,115.0,9.7,8.5,2.5,Tahu goreng,Lauk,https://img-global.cpcdn.com/recipes/33285f91f3b22e50/1200x630cq70/photo.jpg
+18,251.0,16.3,19.4,1.4,Telur Ayam dadar,Lauk,https://awsimages.detik.net.id/community/media/visual/2022/05/07/resep-telur-dadar-ayam_43.jpeg?w=700&q=90
+19,383.0,15.1,32.9,8.3,Telur Ayam ceplok,Lauk,https://asset.kompas.com/crops/iCoT-Kr0xhu1V1MGOEhihIfgbYk=/0x0:498x332/750x500/data/photo/2020/02/07/5e3d3ae57251e.jpg
+20,328.0,18.4,23.2,12.8,Tempe Goreng,Lauk,https://asset.kompas.com/crops/tnGS6LHPv4vxzDYTS-JJdLXBrjo=/0x41:1000x708/1200x800/data/photo/2020/04/01/5e841eccea33c.jpg
+21,240.0,6.0,2.7,49.3,Tempe Sayur,Lauk,https://fibercreme.com/wp-content/uploads/2021/05/tempe-lombok-ijo-santan_.jpg
+22,392.0,5.4,28.5,28.4,Toge -Tahu makanan,Lauk,https://awsimages.detik.net.id/community/media/visual/2021/09/21/resep-tumis-tahu-kuning-dan-tauge.jpeg?w=1200
+23,35,2.4,0.2,7.7,Buncis,Sayur,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSphQ5-9F10VVD4Yv4uqnP3yxZsFootCqTP1DmbHWgeAw&s=10
+24,188,19.3,12.2,0,Ikan Mas goreng,Lauk,https://cdn1-production-images-kly.akamaized.net/PoXdFBAzit7rJj6MDEQSxQ35dT8=/0x462:5162x3371/1200x675/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2930376/original/062217400_1570175183-shutterstock_445394449.jpg
+25,416,46.9,23.9,0,Ikan Mujair goreng,Lauk,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMlYLPo9yWi-gwktc29w_izahBzjc8D5aXvdBOjEzDQ&s=10
+26,30,3.2,0.7,4.7,Kangkung,Sayur,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRP57-_7xOgYFIBgjHkvQwS4nr5toQ9FfnbTrfbPTbpg&s=10
+27,153,7.9,7.7,13,Ketoprak,Menu Lengkap,https://asset.kompas.com/crops/BiN_oCxCDgkO09b1B_FPfZuvGBw=/0x0:739x493/750x500/data/photo/2020/01/29/5e318845429db.jpg
+28,468,7.6,20.4,62.4,Mie Goreng,Menu Lengkap,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4TlRNbLJgg3IFCIvVev8qMCj_W6GfnrcpJLTUkL4Rg&s=10
+29,276,3.2,3.2,30.2,Nasi Goreng,Menu Lengkap,https://asset.kompas.com/crops/2RnTJZK6E9ABjS_1qmItNjI1hls=/0x0:5760x3840/750x500/data/photo/2023/02/14/63eb12fb840da.jpg
+30,253.3,4.3,21,11.7,Nasi Uduk,Menu Lengkap,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf0slx9OXOFpINytrk_6SCH1pccH-HT5kMYZad0b5O4Q&s=10
+31,107,15.9,0.6,0.4,Pindang,Lauk,https://cdn.idntimes.com/content-images/post/20200530/2-a6cb06028f22e293879ec7f5cc4a19fd.jpg
+32,97,5,6,4,Capcai,Sayur,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbPwYkVJCrZBq9XcKauchF24rG2IJUh18Ta0OnsTQsAA&s=10
+33,182,32,6,0,Sapi daging asap,Lauk,https://asset.kompas.com/crops/FMBgpWLQutfbdsgz0ZytI8a9JKo=/0x542:1080x1262/750x500/data/photo/2022/03/22/6239b98488b17.jpg
+34,110,15.5,0.5,11.5,Sate,Lauk,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhmVvQCw9EX3TXfp3iHpLFxujiaNyFwkcMXHdyihMDNw&s=10
+35,49,5.8,0.5,5.3,Sop daging sapi,Lauk,https://img.okezone.com/content/2020/02/27/298/2175054/resep-sayur-sop-daging-masakan-rumahan-paling-populer-24WHr0ACJo.jpg
+36,34,5.5,0.8,1.1,Sop kambing,Lauk,https://asset.kompas.com/crops/4BopB2so0iCh5Dj_6QkB41md3B0=/3x0:700x465/750x500/data/photo/2021/01/15/6000de7b45e69.jpg
+37,328,12.6,19.9,24.6,Tahu telur,Lauk,https://resepkoki.id/wp-content/uploads/2021/09/Resep-Tahu-Telur.jpg
+38,285,4.3,25.7,9.5,Terong + Oncom,Lauk,https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2018/11/01/3283397597.jpg
+40,93.6,4.4,1.8,15.1,Toge Goreng,Sayur,https://akcdn.detik.net.id/community/media/visual/2019/04/22/de16ca5c-a9d9-4197-a567-b818b1d59d94.jpeg?w=1208
+41,221.3,3.8,3.6,43.4,Lontong,Karbo,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiN6IFQTkZns9Um8xossodoA1-YPEVdi3G5KdjolilHQ&s=10
+42,125.7,3.3,1.9,23.9,Buras,Karbo,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT1QH4Z-yfFUB28_9-I5RCR31f-3rTb4NqL0K7H5ZWdA&s=10
+43,213,6,10,29.1,Semur Jengkol,Lauk,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjeAFjM2X64v2hGSSo6C3ViHwh-7KE_bHTB8ysiqDiZw&s=10
+44,115,16,4,3,Cumi tumis,Lauk,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYrd4_CH-PIToXKR8zCCUDbK9gzLQSE0X4aJPmu_Xz3A&s=10
+45,245,15,12,22,Tempe bacem,Lauk,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8MYXdRoWm4egW3ygOrEHLvILTFeGqhs8ikez-X5Ulw&s=10
+46,550,24,25,55,Nasi Padang (Lengkap),Menu Lengkap,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1E2ireFOOoIVxKBG8ZJQq0eEfsBagXRHj16SlZc4Ww&s=10
+47,250,28,13,40,Ayam Suwir,Lauk,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzSVyLxJ5HGY3uXSXW6iNJWbWHQjWoMwwIe8Cc2dpQ8A&s=10
+48,210.0,18,12,5,Ikan Tongkol Balado,Lauk,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5awpMQYrV8coFbqhNv8KE4PGh8OHeqJXfpRNswWA_Xg&s=10
+49,295.0,14,18,16,Nugget ,Lauk,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMbrmbxJ_CFDREfcbb_Ph49LZBdRDJgwDqdjGEzYiJEw&s=10
+50,230.0,4,15,21,Perkedel Kentang,Lauk,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6L4dA8sYGv-ef2cEUVX9rvRE6KnRP8LdlqnMiyqZGoA&s=10
+51,95.0,4,6,8,Sayur Daun Singkong,Sayur,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHkIPlkC4gcHprHJMsZsKUfOFUN80-iF8ZPx8OvT7ILA&s=10
+52,245.0,26,14,2.5,Ati Ampela Goreng,Lauk,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3OqWDsI07NWl1f365VvUEhD5dbcG62eHw6TpA95XdoA&s=10
+53,195.0,23,10.5,1,Ayam Pop,Lauk,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjJfnLsbCdqTRtAIzYM2l5PPZ8ATilfMAsgVsZ_rqAzQ&s=10
+54,250.0,19,18,2.5,Tunjang (Kikil),Lauk,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0ZcKJe7xARQycSt686ig-0Wuy7GNtd-KJc39OYVX_A&s
+55,162.0,18.5,9,1.8,Opor Ayam,Lauk,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9t8Nn3nmiwgui270ONAKYv5o6x3U9GJDkBZU5t296bA&s=10
+56,210.0,12.5,15,4.5,Telur Balado,Lauk,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3hIc7IgrzA_doWYRXVtaREhRHYq7fYC0xmCmAixpm_Q&s=10
+57,110.0,8.5,6,5,Pepes Tahu,Lauk,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6sVM58n5HxO2wgATDbwTs8IJDMAaiJ1fnE_Op2GYKBg&s=10
+58,450.0,12,18,60,Seblak Komplit,Menu Lengkap,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoMiI6UWNjw1GPkDz_dmXsHAxybixHLfi8szkdDwFlUg&s=10
+59,70.0,2,4.5,5.5,Tumis Genjer,Sayur,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcm851PB-O7VhlbV6uEdO-eS0FNo31MNi6cEFiVSwAyA&s=10
